@@ -1,0 +1,2 @@
+# server-relay
+YES
